@@ -21,7 +21,7 @@ This project predicts food delivery time (in minutes) using a trained Random For
 
 ## Prerequisites
 - Python 3.9–3.11 recommended
-- pip
+  
 
 ## Setup
 1) Create and activate a virtual environment (optional but recommended).
@@ -57,4 +57,5 @@ The app will open in your browser (default http://localhost:8501).
 
 ## License
 This project is for educational/demo purposes. Use at your discretion.
+
 
